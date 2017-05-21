@@ -28,32 +28,32 @@ var ionic = require('./ionic-api').init(config);
 ```js
 ionic.tokens
 ```
-- #### list(options)
-- #### create(token_id [, user_id])
-- #### retrieve(token_id)
-- #### update(token_id[, valid])
-- #### delete(token_id)
-- #### listAssociatedUsers(token_id)
-- #### associateUser(token_id)
-- #### dissociateUser(token_id, user_id)
+- list(options)
+- create(token_id [, user_id])
+- retrieve(token_id)
+- update(token_id[, valid])
+- delete(token_id)
+- listAssociatedUsers(token_id)
+- associateUser(token_id)
+- dissociateUser(token_id, user_id)
 
 ### Messages
 ```js
 ionic.messages
 ```
-- #### retrieve(message_id)
-- #### delete(message_id)
+- retrieve(message_id)
+- delete(message_id)
 
 ### Notifications
 ```js
 ionic.notifications
 ```
-- #### list(options)
-- #### create(notification, target, profile)
-- #### retrieve(notification_id [, fields=[]])
-- #### replace(notification_id, body)
-- #### delete(notification_id)
-- #### listMessages(notification_id, options)
+- list(options)
+- create(notification, target, profile)
+- retrieve(notification_id [, fields=[]])
+- replace(notification_id, body)
+- delete(notification_id)
+- listMessages(notification_id, options)
 
 
 ## Usage
