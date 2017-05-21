@@ -1,6 +1,6 @@
 {
   "name": "ionic-api",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "API Client for Ionic Push Service",
   "main": "dist/index.js",
   "scripts": {
