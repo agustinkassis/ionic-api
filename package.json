@@ -1,0 +1,30 @@
+{
+  "name": "ionic-api",
+  "version": "0.9.0",
+  "description": "API Client for Ionic Push Service",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^4.3.4",
+    "restify": "^4.3.0"
+  },
+  "repository": "agustinkassis/ionic-api",
+  "author": {
+    "name": "Agustin Kassis",
+    "email": "webmaster@masize.com",
+  },
+  "keywords": [
+    "ionic",
+    "push",
+    "client",
+    "api",
+    "rest",
+  ],
+  "preferGlobal": false,
+  "bugs": {
+    "url" : "https://github.com/agustinkassis/ionic-api/issues"
+  }
+}
