@@ -14,14 +14,14 @@
   "repository": "agustinkassis/ionic-api",
   "author": {
     "name": "Agustin Kassis",
-    "email": "webmaster@masize.com",
+    "email": "webmaster@masize.com"
   },
   "keywords": [
     "ionic",
     "push",
     "client",
     "api",
-    "rest",
+    "rest"
   ],
   "preferGlobal": false,
   "bugs": {
