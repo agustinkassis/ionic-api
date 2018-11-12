@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "query-string": "^4.3.4",
-    "restify": "^4.3.0"
+    "restify": "^5.0.1"
   },
   "repository": "agustinkassis/ionic-api",
   "author": {
